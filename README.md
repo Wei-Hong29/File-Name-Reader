@@ -11,4 +11,15 @@ Open cmd in the same directory as the files here, and type the below and press E
 
 
 
-Note that instead of **testcase2**, it should be your **input directory name**
+Note that instead of **testcase2**, it should be your **input directory name**.
+
+
+
+The sample files should produce the output below, as copy and pasted from cmd:
+
+            C:\Users\User\Downloads\Test\New folder>python print-all-file-name.py testcase1
+            food
+
+            C:\Users\User\Downloads\Test\New folder>python print-all-file-name.py testcase2
+            dancer
+
