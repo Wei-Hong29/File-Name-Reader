@@ -19,7 +19,7 @@ Note that instead of **testcase2**, it should be your **input directory name**.
 
 <br /><br /><br /><br /><br />
 
-The sample files should produce the output below, as copy and pasted from cmd:
+The testcases should produce the output below, as copy and pasted from cmd:
 
             C:\Users\User\Downloads\Test\New folder>python print-all-file-name.py testcase1
             food
